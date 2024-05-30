@@ -1,0 +1,150 @@
+.body{
+	    background: black;
+
+}
+.color{
+		background: yellow;
+
+
+}
+
+.Padre {
+		text-align: center;
+
+	 border: 2px solid black;
+    border-radius: 10px; /* Optional: Rounded corners */
+    padding: 10px; /* Optional: Padding inside the border */
+    margin: 20px; /* Optional: Margin outside the border */
+        align-items: center;
+        background: #303030;
+    color:white;
+
+}
+
+.Padre .child {
+	text-align: center;
+	 border: 2px solid black;
+    border-radius: 10px; /* Optional: Rounded corners */
+    padding: 10px; /* Optional: Padding inside the border */
+    margin: 20px; /* Optional: Margin outside the border */
+    color:black;
+}
+
+
+
+
+.section{
+		text-align: center;
+	 border: 2px solid black;
+    border-radius: 10px; /* Optional: Rounded corners */
+    padding: 10px; /* Optional: Padding inside the border */
+    margin: 20px; /* Optional: Margin outside the border */
+    color :white;
+    background: black;
+}
+.qn{
+	background: #303030;
+	    border-radius: 10px; /* Optional: Rounded corners */
+
+}
+.acts{
+		text-align: center;
+			text-align: center;
+	 border: 2px solid yellow;
+    border-radius: 20px; /* Optional: Rounded corners */
+    padding: 10px; /* Optional: Padding inside the border */
+    margin: 40px; /* Optional: Margin outside the border */
+    background: #303030;
+    color:white;
+}
+
+.input{
+	border-radius:10px;
+	width: 250px;
+	height: 35px;
+} 
+
+#boton:hover {
+	transition: ;
+	background: black;
+	color:yellow;
+	transition: background 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+}
+
+#boton {
+	border-radius:10px;
+	width: 250px;
+	height: 35px;
+	            cursor: pointer;
+
+}
+
+
+
+
+
+#c1:hover{
+	background: white;
+    transition: color 0.6s ease-in-out;
+	transition: background 0.3s ease-in-out;
+		color: white;
+
+
+
+}
+
+#c2:hover{
+		background: white;
+    transition: color 0.6s ease-in-out;
+	transition: background 0.3s ease-in-out;
+		color: white;
+
+
+
+
+
+}
+
+
+
+#c3:hover{
+	background: black;
+	color:yellow;
+	transition: background 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+
+
+
+}
+.img{
+	  
+
+
+border-radius: 10px; 
+   
+        background: #303030;
+    color:black;
+    display: flex;
+            flex-wrap: wrap; /* Permite que los elementos se envuelvan en múltiples líneas */
+            gap: 10px; 
+
+
+}
+.imgc{
+    
+      width: 100px; /* Ancho fijo para las imágenes */
+            height: auto; 
+    border-radius: 10px; 
+    padding: 10px;
+    margin: 20px; 
+        background: yellow;
+    color:black;
+  	height: 400px;
+
+
+}
+
+
+
+
