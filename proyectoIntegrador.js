@@ -2,7 +2,7 @@
 
 
 
-
+//1
 function agregarActividad() {
     var nombre = document.getElementById('nombreActividad').value;
     var descripcion = document.getElementById('descripcionActividad').value;
